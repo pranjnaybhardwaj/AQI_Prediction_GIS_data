@@ -33,7 +33,7 @@ This project builds a spatially-aware ML pipeline to:
 | Random Forest  | ~5.0                       |
 | Linear Reg     | ~6.4                       |
 
-- Best performance from XGBoost + engineered spatial-temporal features
+- Best performance from SARIMA + engineered spatial-temporal features
 - Feature importance analyzed using SHAP
 
 ---
