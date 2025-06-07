@@ -49,6 +49,6 @@ This project builds a spatially-aware ML pipeline to:
 
 ## 📁 Repository Structure
 
-├── notebook/
+├
 │ └── AQ_Prediction_stripped.ipynb 
 
